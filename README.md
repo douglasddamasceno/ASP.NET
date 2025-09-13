@@ -1,6 +1,29 @@
 # ASP.NET
 Comandos e configurações básicas para a criação de projetos em ASP.NET
 
+###
+ASP.NET Profile
+```json
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Space Grotesk",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "workbench.iconTheme": "vscode-great-icons",
+    "terminal.integrated.cursorStyle": "line",
+    "files.exclude": {
+        "**/*bin": true,
+        "**/*obj": true
+    },
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "MesloLGM Nerd Font"
+}
+```
+### ASP.NET Extensions
+<img width="1366" height="720" alt="{5B941288-31DC-430E-837D-4EB03CF77790}" src="https://github.com/user-attachments/assets/f5dee39e-046a-4f54-8c99-f2e8a9bcf396" />
+
 ### Criar Projeto ASP.NET
 1. Criar diretório da solução
 ```powershell
