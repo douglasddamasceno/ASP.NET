@@ -1,8 +1,26 @@
-# ASP.NET
-Comandos e configurações básicas para a criação de projetos em ASP.NET
+# ASP.NET com C#
+> Roadmap de aprendizagem
+1. Base Profunda
+- Lógica de Programação
+- POO
+- Estrutura de Dados
 
-###
-ASP.NET Profile
+2. Banco de Dados e Consultas
+- LINQ
+- SQL
+- Dapper e EntityFrameowrkCore
+
+3. Apps e Apis
+- APP ASP.NET Core MVC
+- API com controllers
+- Minimal API
+
+4. Bibliotecas .NET
+- FluentValidation, MediatR, Refit e Polly
+- Testes (xUnit, Moq e NSubstitute)
+- Segurança a Autenticação: IdentityServer e JWT
+
+### ASP.NET Profile
 ```json
 {
     "workbench.colorTheme": "GitHub Dark",
