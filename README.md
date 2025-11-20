@@ -93,7 +93,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 
 ### Migrations
 ```powershell
-dotnet ef migrations add initial
+dotnet ef migrations add NOMEDAVERSAO
 dotnet ef database update
 ```
 
@@ -175,12 +175,6 @@ dotnet new web -o MyWebApp -f netX.X
 		"version": "^6.0.201"
 	}
 }
-```
-
-- Migrations passando o contexto como parâmetro
-```powershell
-dotnet ef migrations add MYCOMMENT --context MYCONTEXT
-dotnet ef database update --context MYCONTEXT
 ```
 
 - Habiliar certificados de dev
